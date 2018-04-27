@@ -52,7 +52,7 @@ File -> New -> Project: Spring Initialzr, Follow the instruction.
 
 ```xml
 <parent>
-    <groupId>com.etongdai</groupId>
+    <groupId>com.test123</groupId>
     <artifactId>etd-build</artifactId>
     <version>${etd-build.version}</version>
 </parent>
