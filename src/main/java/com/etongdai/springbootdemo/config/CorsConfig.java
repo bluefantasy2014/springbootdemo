@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.config;
+package com.test123.springbootdemo.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.config;
+package com.test123.springbootdemo.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -23,7 +23,7 @@ public class SwaggerConfig {
     return new Docket(DocumentationType.SWAGGER_2)
         .apiInfo(apiInfo())
         .select()
-        .apis(RequestHandlerSelectors.basePackage("com.etongdai.springbootdemo.api.rest"))
+        .apis(RequestHandlerSelectors.basePackage("com.test123.springbootdemo.api.rest"))
         .paths(PathSelectors.any())
         .build();
   }

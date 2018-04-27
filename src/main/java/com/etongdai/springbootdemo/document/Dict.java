@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.document;
+package com.test123.springbootdemo.document;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

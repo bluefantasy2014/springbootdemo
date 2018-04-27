@@ -1,6 +1,6 @@
-package com.etongdai.springbootdemo.exception;
+package com.test123.springbootdemo.exception;
 
-import com.etongdai.springbootdemo.utils.DictConstans;
+import com.test123.springbootdemo.utils.DictConstans;
 
 import lombok.extern.slf4j.Slf4j;
 

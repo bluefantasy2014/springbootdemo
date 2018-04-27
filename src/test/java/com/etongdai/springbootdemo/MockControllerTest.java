@@ -1,13 +1,13 @@
-package com.etongdai.springbootdemo;
+package com.test123.springbootdemo;
 
 import static org.mockito.BDDMockito.given;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-import com.etongdai.springbootdemo.api.rest.DictApi;
-import com.etongdai.springbootdemo.entity.Dict;
-import com.etongdai.springbootdemo.service.DictService;
+import com.test123.springbootdemo.api.rest.DictApi;
+import com.test123.springbootdemo.entity.Dict;
+import com.test123.springbootdemo.service.DictService;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

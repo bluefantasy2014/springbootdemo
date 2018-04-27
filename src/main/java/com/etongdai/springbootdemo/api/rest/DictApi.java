@@ -1,12 +1,12 @@
-package com.etongdai.springbootdemo.api.rest;
+package com.test123.springbootdemo.api.rest;
 
-import static com.etongdai.springbootdemo.utils.DictConstans.API_VERSION;
-import static com.etongdai.springbootdemo.utils.DictConstans.ERROR_BLOCK_BY_BLACK_LIST;
+import static com.test123.springbootdemo.utils.DictConstans.API_VERSION;
+import static com.test123.springbootdemo.utils.DictConstans.ERROR_BLOCK_BY_BLACK_LIST;
 
-import com.etongdai.springbootdemo.entity.Dict;
-import com.etongdai.springbootdemo.exception.BusinessException;
-import com.etongdai.springbootdemo.exception.RecordNotFoundException;
-import com.etongdai.springbootdemo.service.DictService;
+import com.test123.springbootdemo.entity.Dict;
+import com.test123.springbootdemo.exception.BusinessException;
+import com.test123.springbootdemo.exception.RecordNotFoundException;
+import com.test123.springbootdemo.service.DictService;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

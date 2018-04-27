@@ -62,7 +62,7 @@
 
     <Loggers>
         <Root level="WARN"/>
-        <Logger name="com.etongdai.springbootdemo" level="${sys:log.level}">
+        <Logger name="com.test123.springbootdemo" level="${sys:log.level}">
             <Appender-ref ref="Console"/>
             <Appender-ref ref="RollingFileDebug"/>
             <Appender-ref ref="RollingFileInfo"/>

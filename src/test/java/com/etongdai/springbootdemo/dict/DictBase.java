@@ -1,11 +1,11 @@
-package com.etongdai.springbootdemo.dict;
+package com.test123.springbootdemo.dict;
 
 import static org.mockito.BDDMockito.given;
 
-import com.etongdai.springbootdemo.SpringbootdemoApplication;
-import com.etongdai.springbootdemo.api.rest.DictApi;
-import com.etongdai.springbootdemo.entity.Dict;
-import com.etongdai.springbootdemo.service.DictService;
+import com.test123.springbootdemo.SpringbootdemoApplication;
+import com.test123.springbootdemo.api.rest.DictApi;
+import com.test123.springbootdemo.entity.Dict;
+import com.test123.springbootdemo.service.DictService;
 import com.jayway.restassured.module.mockmvc.RestAssuredMockMvc;
 
 import org.junit.Before;

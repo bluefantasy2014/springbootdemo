@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.quartz;
+package com.test123.springbootdemo.quartz;
 
 import lombok.extern.slf4j.Slf4j;
 

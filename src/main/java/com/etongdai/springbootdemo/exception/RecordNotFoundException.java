@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.exception;
+package com.test123.springbootdemo.exception;
 
 /**
  * @author hotleave

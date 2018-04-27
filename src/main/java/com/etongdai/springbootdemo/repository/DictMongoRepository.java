@@ -1,6 +1,6 @@
-package com.etongdai.springbootdemo.repository;
+package com.test123.springbootdemo.repository;
 
-import com.etongdai.springbootdemo.document.Dict;
+import com.test123.springbootdemo.document.Dict;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

@@ -1,7 +1,7 @@
-package com.etongdai.springbootdemo.service;
+package com.test123.springbootdemo.service;
 
-import com.etongdai.springbootdemo.entity.Dict;
-import com.etongdai.springbootdemo.repository.DictRepository;
+import com.test123.springbootdemo.entity.Dict;
+import com.test123.springbootdemo.repository.DictRepository;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

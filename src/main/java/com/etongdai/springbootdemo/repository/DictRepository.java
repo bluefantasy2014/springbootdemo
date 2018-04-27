@@ -1,6 +1,6 @@
-package com.etongdai.springbootdemo.repository;
+package com.test123.springbootdemo.repository;
 
-import com.etongdai.springbootdemo.entity.Dict;
+import com.test123.springbootdemo.entity.Dict;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

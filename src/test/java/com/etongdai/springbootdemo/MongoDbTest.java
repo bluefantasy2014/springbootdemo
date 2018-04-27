@@ -1,7 +1,7 @@
-package com.etongdai.springbootdemo;
+package com.test123.springbootdemo;
 
-import com.etongdai.springbootdemo.document.Dict;
-import com.etongdai.springbootdemo.repository.DictMongoRepository;
+import com.test123.springbootdemo.document.Dict;
+import com.test123.springbootdemo.repository.DictMongoRepository;
 
 import org.junit.Assert;
 import org.junit.Test;

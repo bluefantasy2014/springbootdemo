@@ -1,6 +1,6 @@
-package com.etongdai.springbootdemo;
+package com.test123.springbootdemo;
 
-import com.etongdai.springbootdemo.entity.Dict;
+import com.test123.springbootdemo.entity.Dict;
 
 import org.junit.Assert;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.quartz;
+package com.test123.springbootdemo.quartz;
 
 import org.quartz.spi.TriggerFiredBundle;
 import org.springframework.beans.factory.config.AutowireCapableBeanFactory;

@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.entity;
+package com.test123.springbootdemo.entity;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

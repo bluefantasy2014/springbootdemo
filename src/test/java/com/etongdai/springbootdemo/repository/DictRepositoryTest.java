@@ -1,9 +1,9 @@
-package com.etongdai.springbootdemo.repository;
+package com.test123.springbootdemo.repository;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-import com.etongdai.springbootdemo.entity.Dict;
+import com.test123.springbootdemo.entity.Dict;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

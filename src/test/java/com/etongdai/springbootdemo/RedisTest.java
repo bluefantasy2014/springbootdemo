@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo;
+package com.test123.springbootdemo;
 
 import org.junit.Assert;
 import org.junit.Test;

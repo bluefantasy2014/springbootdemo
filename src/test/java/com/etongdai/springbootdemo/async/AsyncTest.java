@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.async;
+package com.test123.springbootdemo.async;
 
 import org.junit.Assert;
 import org.junit.Test;

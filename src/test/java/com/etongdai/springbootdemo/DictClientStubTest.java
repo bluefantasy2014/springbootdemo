@@ -1,6 +1,6 @@
-package com.etongdai.springbootdemo;
+package com.test123.springbootdemo;
 
-import com.etongdai.springbootdemo.entity.Dict;
+import com.test123.springbootdemo.entity.Dict;
 
 import org.junit.Assert;
 import org.junit.Ignore;
@@ -18,7 +18,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @Ignore("该测试应在Client端运行")
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.NONE)
-@AutoConfigureStubRunner(ids = "com.etongdai:springbootdemo:+:stubs:6666", workOffline = true)
+@AutoConfigureStubRunner(ids = "com.test123:springbootdemo:+:stubs:6666", workOffline = true)
 public class DictClientStubTest {
   @Autowired
   private RestTemplateBuilder builder;

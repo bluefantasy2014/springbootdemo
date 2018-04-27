@@ -1,4 +1,4 @@
-package com.etongdai.springbootdemo.utils;
+package com.test123.springbootdemo.utils;
 
 /**
  * @author hotleave
