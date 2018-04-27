@@ -46,7 +46,7 @@ SpringBoot = SpringMVC + SpringData(JPA)
 
 File -> New -> Project: Spring Initialzr, Follow the instruction.
 
-以后所有的项目应以[etd-build](http://gitlab.etongdai.org/infra/etd-common-dependency)做为父项目，并加入统一的依赖管理，
+以后所有的项目应以[etd-build](http://gitlab.test123.org/infra/etd-common-dependency)做为父项目，并加入统一的依赖管理，
 在`etd-common-dependency`中已经包括了常用的Jar包的版本，在引入依赖时，仅需要增加Group和Artificat就可以了，无须再指定版本。
 防止出现因Jar冲突而导致的各种奇怪问题。
 
@@ -60,7 +60,7 @@ File -> New -> Project: Spring Initialzr, Follow the instruction.
 <dependencyManagement>
     <dependencies>
         <dependency>
-            <groupId>com.etongdai</groupId>
+            <groupId>com.test123</groupId>
             <artifactId>etd-common-dependency</artifactId>
             <version>${etd-common-dependency.version}</version>
             <type>pom</type>
